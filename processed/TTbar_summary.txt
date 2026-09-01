@@ -1,0 +1,22 @@
+Sample: TTbar
+Label definition: truth Z->mumu pair exists
+Number of ROOT files: 29
+Total events read: 5068919
+Reco preselected events: 579494
+Signal events y=1: 0
+Background events y=0: 579494
+Signal fraction: 0.000000
+X shape: (579494, 8, 6)
+mask shape: (579494, 8)
+y shape: (579494,)
+Max muons used: 8
+Average real muons/event: 2.487
+Max real muons/event after truncation: 8
+
+Input features:
+- Muon_pt
+- Muon_eta
+- Muon_phi
+- Muon_pfRelIso04_all
+- Muon_dxy
+- Muon_dz

@@ -1,0 +1,22 @@
+Sample: DYJetsToLL
+Label definition: truth Z->mumu pair exists
+Number of ROOT files: 61
+Total events read: 82448537
+Reco preselected events: 14744826
+Signal events y=1: 13234058
+Background events y=0: 1510768
+Signal fraction: 0.897539
+X shape: (14744826, 8, 6)
+mask shape: (14744826, 8)
+y shape: (14744826,)
+Max muons used: 8
+Average real muons/event: 2.120
+Max real muons/event after truncation: 8
+
+Input features:
+- Muon_pt
+- Muon_eta
+- Muon_phi
+- Muon_pfRelIso04_all
+- Muon_dxy
+- Muon_dz
